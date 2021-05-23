@@ -1,0 +1,30 @@
+.espaço {
+    padding-right: 5px;
+}
+
+.cardDex {
+    
+    width: fit-content;
+    height: fit-content;
+    border: solid 2px black;
+    border-radius: 5px;
+    color: black;
+    font-size: 1.25rem;
+    font-family: 'Roboto Mono', monospace;
+    background-color: #FFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.bgrd {
+    background-color: #FF4040;
+    margin: 0;
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
